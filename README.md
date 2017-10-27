@@ -7,10 +7,33 @@ Below you'll find a list of resources for Stoicism. Including: books, videos, an
 <a href="http://www.iep.utm.edu/greekphi/">Ancient Greek Philosophy</a><br />
 <a href="https://en.wikipedia.org/wiki/Stoicism">Wikipedia - Stoicism</a><br />
 <a href="http://www.iep.utm.edu/stoicmind/">Stoic Philosophy of Mind</a><br />
-<a href="http://99u.com/articles/24401/a-makers-guidebook-9-stoic-principles-to-nurture-your-life-and-work">The Stoic: 9 Principles to Help You Keep Calm in Chaos</a>
+<a href="http://99u.com/articles/24401/a-makers-guidebook-9-stoic-principles-to-nurture-your-life-and-work">The Stoic: 9 Principles to Help You Keep Calm in Chaos</a><br />
+<a href="https://www.youtube.com/watch?v=seLLJP3H1FU">Youtube: Massimo Pigliucci - Stoicism 101</a><br />
+<a href="https://www.youtube.com/watch?v=w-RJQdjN4Ag">Youtube: 10 themes of Stoicism</a><br />
+<a href="https://www.youtube.com/watch?v=yu7n0XzqtfA">Youtube: School of Life - The Stoics</a><br />
+<a href="https://www.youtube.com/watch?v=jPeavDDlJpM">Youtube: Michael Connell - Stoic Comedy</a><br />
+<a href="https://www.youtube.com/watch?v=dhrKg8_ltyQ">Youtube: 5 Key Principles of Stoicism Explained</a>
 
 ## Marcus Aurelius | Epictetus | Seneca
+
 ### Marcus Aurelius
 <a href="https://en.wikipedia.org/wiki/Marcus_Aurelius">Wikipedia - Marcus Aurelius</a><br />
 <a href="http://www.iep.utm.edu/marcus/">IEP - Marcus Aurelius</a><br />
 <a href="http://seinfeld.co/library/meditations.pdf"> PDF File - The Emperor's Handbook</a>
+<a href="https://www.youtube.com/watch?v=5897dMWJiSM">Youtube: Professor Michael Sugrue - Marcus Aurelius</a>
+
+### Epictetus
+
+<a href="https://en.wikipedia.org/wiki/Epictetus">Wikipedia - Epictetus</a><br />
+<a href="http://www.iep.utm.edu/epictetu/">IEP - Epictetus</a><br />
+<a href="https://dailystoic.com/epictetus/">DailyStoic - Who Is Epictetus? From Slave To World’s Most Sought After Philosopher</a><br />
+<a href="https://www.stmarys-ca.edu/sites/default/files/attachments/files/Discourses.pdf">PDF File - Discourses of Epictetus</a><br />
+<a href="http://pioneer.chula.ac.th/~pukrit/bba/Epictetus.pdf">PDF File - The Handbook of Epictetus</a><br />
+<a href="https://www.stmarys-ca.edu/sites/default/files/attachments/files/Enchiridion.pdf">PDF File - The Works of Epictetus</a><br />
+<a href="https://www.youtube.com/watch?v=dBwH2iYC-8c">Youtube: The Enchiridion(audio book)</a><br />
+<a href="https://www.youtube.com/watch?v=lhOE8oKQKSM">Youtube: What is and what is not in our control</a><br />
+<a href="https://www.youtube.com/watch?v=n3CBr9Jo_sw">Youtube: On Habits and Practice</a><br />
+<a href="https://www.youtube.com/watch?v=SXOUvJtygo0">Youtube: On Anxiety(agonia)</a>
+
+### Seneca
+
