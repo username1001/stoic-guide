@@ -42,3 +42,11 @@ If you haven't already, you can join a community of Stoics here: <a href="https:
 <a href="http://www.iep.utm.edu/seneca/">IEP - Seneca</a><br />
 <a href="https://www.youtube.com/watch?v=ABRN0E_mI0U">Youtube: On the Shortness of Life</a><br />
 <a href="https://www.youtube.com/watch?v=yuDAfU3uj6o">Youtube: On Anger</a><br />
+
+## Blogs/Podcasts
+
+<a href="https://howtobeastoic.wordpress.com/">How to be a Stoic - Massimo Pigliucci</a><br >
+<a href="http://modernstoicism.com/">Modern Stoicism</a><br />
+<a href="https://dailystoic.com/">The Daily Stoic</a><br />
+<a href="https://immoderatestoic.com/">Immoderate Stoic</a><br />
+<a href="http://www.donaldrobertson.name/">Donald Robertson's Blog</a>
