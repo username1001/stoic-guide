@@ -38,3 +38,7 @@ If you haven't already, you can join a community of Stoics here: <a href="https:
 
 ### Seneca
 
+<a href="https://en.wikipedia.org/wiki/Seneca_the_Younger">Wikipedia - Seneca</a><br />
+<a href="http://www.iep.utm.edu/seneca/">IEP - Seneca</a><br />
+<a href="https://www.youtube.com/watch?v=ABRN0E_mI0U">Youtube: On the Shortness of Life</a><br />
+<a href="https://www.youtube.com/watch?v=yuDAfU3uj6o">Youtube: On Anger</a><br />
