@@ -50,3 +50,10 @@ If you haven't already, you can join a community of Stoics here: <a href="https:
 <a href="https://dailystoic.com/">The Daily Stoic</a><br />
 <a href="https://immoderatestoic.com/">Immoderate Stoic</a><br />
 <a href="http://www.donaldrobertson.name/">Donald Robertson's Blog</a>
+
+## Other
+
+<a href="http://modernstoicism.com/audio-recordings-for-stoic-week-2014/">Stoic Meditations(audio)</a><br />
+<a href="https://dailystoic.com/stoic-meditations/">Seven Stoic Meditations</a><br />
+<a href="http://collegeofstoicphilosophers.org/">College of Stoic Philosophers</a><br />
+<a href="https://www.youtube.com/watch?v=kgM0BI_eROQ">Youtube: On Being a Stoic(short film)</a>
