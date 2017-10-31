@@ -1,5 +1,5 @@
 # Stoicism Guide - A list of resources
-Below you'll find a list of resources for Stoicism. Including: books, videos, and articles.<br />
+Below you'll find a list of resources for Stoicism. Including: books, videos, articles, and podcasts.<br />
 If you haven't already, you can join a community of Stoics here: <a href="https://www.facebook.com/groups/Stoicism/">Stoicism Group</a>
 
 ## General Ideas | History
