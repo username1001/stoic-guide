@@ -1,8 +1,8 @@
 # Stoicism Guide - A list of resources
-Below you'll find a list of resources for Stoicism. Including: books, videos, articles, and podcasts.<br />
+Below you will find a list of resources for Stoicism. Including: books, videos, articles, and podcasts.<br />
 If you haven't already, you can join a community of Stoics here: <a href="https://www.facebook.com/groups/Stoicism/">Stoicism Group</a>
 
-## General Ideas | History
+## General information | History
 
 <a href="http://www.iep.utm.edu/cynics/">The Cynics</a><br />
 <a href="http://www.iep.utm.edu/greekphi/">Ancient Greek Philosophy</a><br />
@@ -56,4 +56,5 @@ If you haven't already, you can join a community of Stoics here: <a href="https:
 <a href="http://modernstoicism.com/audio-recordings-for-stoic-week-2014/">Stoic Meditations(audio)</a><br />
 <a href="https://dailystoic.com/stoic-meditations/">Seven Stoic Meditations</a><br />
 <a href="http://collegeofstoicphilosophers.org/">College of Stoic Philosophers</a><br />
-<a href="https://www.youtube.com/watch?v=kgM0BI_eROQ">Youtube: On Being a Stoic(short film)</a>
+<a href="https://www.youtube.com/watch?v=kgM0BI_eROQ">Youtube: On Being a Stoic(short film)</a><br />
+<a href="https://www.reddit.com/r/Stoicism/comments/4twns5/stoic_blogs/">List of blogs</a>
