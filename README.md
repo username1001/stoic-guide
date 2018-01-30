@@ -14,7 +14,8 @@ If you haven't already, you can join a community of Stoics here: <a href="https:
 <a href="https://www.youtube.com/watch?v=w-RJQdjN4Ag">Youtube: 10 themes of Stoicism</a><br />
 <a href="https://www.youtube.com/watch?v=yu7n0XzqtfA">Youtube: School of Life - The Stoics</a><br />
 <a href="https://www.youtube.com/watch?v=jPeavDDlJpM">Youtube: Michael Connell - Stoic Comedy</a><br />
-<a href="https://www.youtube.com/watch?v=dhrKg8_ltyQ">Youtube: 5 Key Principles of Stoicism Explained</a>
+<a href="https://www.youtube.com/watch?v=dhrKg8_ltyQ">Youtube: 5 Key Principles of Stoicism Explained</a><br />
+<a href="https://www.youtube.com/playlist?list=PL4gvlOxpKKIjJCphkLAhl-enapF9Tp1C6">Youtube: Stoicism playlist by Gregory Sadler</a>
 
 ## Marcus Aurelius | Epictetus | Seneca
 
